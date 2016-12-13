@@ -1,5 +1,9 @@
 # Google API Client
 
+## CHANGES IN FORK
+
+This fork is version 0.9.20 with representable 3.0 (backported from branch v0.10).
+
 ## Alpha
 
 This library is in Alpha. We will make an effort to support the library, but we reserve the right to make incompatible
